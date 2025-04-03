@@ -11,7 +11,6 @@ This assignment has two parts designed to assess your skills in CI/CD pipeline s
 ---
 
 ## Before You Start:
-- You will receive a zip file with the assignment code in your email. 
 - This is a simple java application. The contents of the application do not really matter. You only need some basic knowlegde of java and maven to build and run it.
 
 Next to this, you will need a:
